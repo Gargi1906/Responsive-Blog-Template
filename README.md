@@ -38,8 +38,11 @@ Customizable: Users can easily customize the template by modifying the HTML, CSS
 To customize the blog template, consider the following options:
 
 1.Branding: Update the logo and colors in the CSS file (styles.css) to match your brand identity.
+
 2.Content: Modify the HTML files to add your own blog posts and articles. Customize the text, images, and formatting as desired.
+
 3.Styling: Adjust the CSS styles to customize the layout, typography, and appearance of different sections.
+
 4.Navigation: Modify the navigation menu in the HTML file to reflect your blog's structure and sections.
 
 # License
